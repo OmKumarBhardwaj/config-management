@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Legend Bank through PROD APIs"
+  contactDetails:
+    name: "Legend - Developer"
+    email: "legend@legend.com"
+  onCallSupport:
+    - (8347) 8347 8347
+    - (9834) 9834 9834
