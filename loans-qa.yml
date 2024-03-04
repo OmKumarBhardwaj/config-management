@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Legend loans related QA APIs "
+  contactDetails:
+    name: "Legend - Developer"
+    email: "legend@legend.com"
+  onCallSupport:
+    - (785) 545-6565
+    - (853) 546-3467
