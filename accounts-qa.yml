@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Legend Bank through QA APIs"
+  contactDetails:
+    name: "Legend - Developer"
+    email: "legend@legend.com"
+  onCallSupport:
+    - (7345) 7345 7345
+    - (7456) 7456 7456
