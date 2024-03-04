@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Legend loans related PROD APIs "
+  contactDetails:
+    name: "Legend - Developer"
+    email: "legend@legend.com"
+  onCallSupport:
+    - (785) 545-6545
+    - (853) 546-3434
