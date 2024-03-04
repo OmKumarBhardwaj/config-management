@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Legend Bank"
+  contactDetails:
+    name: "Legend - Developer"
+    email: "legend@legend.com"
+  onCallSupport:
+    - (1234) 1234 1234
+    - (2345) 2345 2345
