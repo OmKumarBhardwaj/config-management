@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Legend cards related PROD + WebHook APIs "
+  message: "Welcome to Legend cards related PROD + WebHook APIs + Docker "
   contactDetails:
     name: "Legend - Developer"
     email: "legend@legend.com"
