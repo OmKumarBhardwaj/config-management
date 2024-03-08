@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Legend Bank + Inside Docker"
+  message: "Welcome to Legend Bank + Test WebHook Inside Docker"
   contactDetails:
     name: "Legend - Developer"
     email: "legend@legend.com"
