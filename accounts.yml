@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Legend Bank"
+  message: "Welcome to Legend Bank + Inside Docker"
   contactDetails:
     name: "Legend - Developer"
     email: "legend@legend.com"
