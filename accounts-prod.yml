@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Legend Bank through PROD + WebHook APIs + Once again"
+  message: "Welcome to Legend Bank through PROD + WebHook APIs"
   contactDetails:
     name: "Legend - Developer"
     email: "{cipher}eeb5e7ac9386af50d069faca09cd04709ea521aa36ea5bcb82c04f7df2becc5de07ce9f68895703b5ac79c3558d524f6"
